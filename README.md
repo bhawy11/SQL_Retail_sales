@@ -52,4 +52,18 @@ WHERE
     gender IS NULL OR age IS NULL OR category IS NULL OR 
     quantity IS NULL OR price_per_unit IS NULL OR cogs IS NULL;
 ```
+### Key Insights
 
+* **Customer Demographics:** The dataset covers customers from a wide range of age groups, with purchasing activity primarily concentrated in categories such as Clothing and Beauty.
+
+* **High-Value Transactions:** A significant number of transactions exceeded 1,000 in total sales, highlighting the presence of premium and high-value purchases.
+
+* **Sales Trends:** Monthly sales analysis reveals fluctuations in revenue throughout the year, helping identify periods of higher and lower sales performance.
+
+* **Customer Insights:** The analysis highlights the highest-spending customers and identifies the most frequently purchased product categories, providing valuable insights into customer preferences and purchasing behavior.
+
+### Reports
+* Sales Summary: Provides an overview of total sales, customer demographics, and category-wise performance.
+* Sales Trend Analysis: Analyzes sales patterns across different months and time periods to identify changes in performance.
+* Customer Insights: Highlights top-spending customers, customer distribution, and unique customer counts across different product categories.
+* Category Performance: Examines the performance of each product category to identify the most popular and highest-performing categories.
